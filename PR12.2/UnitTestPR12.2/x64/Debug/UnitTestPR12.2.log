@@ -1,0 +1,60 @@
+﻿  UnitTestPR12.2.cpp
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(20,22): warning C4566: character represented by universal-character-name '\u0412' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(20,22): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(20,22): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(20,22): warning C4566: character represented by universal-character-name '\u0449' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(20,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(20,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(21,22): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(21,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(21,22): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(21,22): warning C4566: character represented by universal-character-name '\u0447' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(21,22): warning C4566: character represented by universal-character-name '\u0443' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(21,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u0413' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u0440' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u0446' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u044E' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+D:\C\PR12.2\UnitTestPR12.2\UnitTestPR12.2.cpp(22,22): warning C4566: character represented by universal-character-name '\u043A' cannot be represented in the current code page (1252)
+  (compiling source file '/UnitTestPR12.2.cpp')
+  
+     Creating library D:\C\PR12.2\x64\Debug\UnitTestPR12.2.lib and object D:\C\PR12.2\x64\Debug\UnitTestPR12.2.exp
+  UnitTestPR12.2.vcxproj -> D:\C\PR12.2\x64\Debug\UnitTestPR12.2.dll
